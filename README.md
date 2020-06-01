@@ -12,5 +12,5 @@ Data: The dataset consists of Open, High, Low, Closing and Ajd Closing Prices of
 
 Works:
 + First, we will import useful packages, read data, check missing data, visualizing stock data (we will concentrate to the Ajusted Close price which is our predicted objectif).
-+ Second, we will use two models to predict ajusted close prices: Lost-Short-Term-Memory model, Support Machine Regression model and Multiple regression models. We aim to predict the Ajusted Close price in 23th May 2020. Besides that, have not yet the anounned Adj Close in 30th May 2020, so we will apply these models to predict the Adj Close in 30th May 2020. So we will wait for the true Ajd Close in tomorrow to value our model quality.
++ Second, we will use two models to predict ajusted close prices: Lost-Short-Term-Memory model, Support Machine Regression model and Multiple regression models. We aim to predict the Ajusted Close price in 23th May 2020. Besides that, have not yet the anounned Adj Close in 30th May 2020, so we will apply these models to predict the Adj Close in 30th May 2020. So we will wait for the true Ajd Close in 30th May 2020 to value our model quality.
 + Lastly, we conclude the results.
